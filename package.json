@@ -1,0 +1,23 @@
+{
+  "name": "@IsMeElyn/libsignal-node",
+  "version": "0.0.6",
+  "description": "Libsignal for Node.js",
+  "repository": "IsMeElyn/libsignal-node",
+  "main": "index.js",
+  "keywords": [
+    "signal",
+    "whispersystems",
+    "crypto"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "curve25519-js": "^0.0.4",
+    "protobufjs": "6.8.8"
+  },
+  "files": [
+    "src/*"
+  ],
+  "devDependencies": {
+    "eslint": "6.0.1"
+  }
+}
